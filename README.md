@@ -1,4 +1,4 @@
-# desafio-login
+# Desafio Login
 Declare um vetor contendo informações sobre usuários de um site, contendo as propriedades: id, nome, email, senha e expirado (boleano, pode ser true ou false). Adicione ao menos um dos usuarios como expirado sendo true.
 
 ## Objetivo
